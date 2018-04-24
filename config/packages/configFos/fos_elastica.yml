@@ -1,0 +1,9 @@
+# Fos Elastica Bundle
+# Configuration: https://github.com/FriendsOfSymfony/FOSElasticaBundle/blob/master/doc/index.md
+fos_elastica:
+    serializer:
+        serializer: jms_serializer
+    clients:
+        default: { host: localhost, port: 9200 }
+    indexes:
+        app: ~

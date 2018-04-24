@@ -1,0 +1,4 @@
+imports:
+    - { resource: configFos/fos_elastica.yml }
+    - { resource: configFos/fos_rest.yml }
+    - { resource: configFos/fos_user.yml }

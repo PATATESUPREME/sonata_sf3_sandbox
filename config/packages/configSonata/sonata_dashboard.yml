@@ -1,0 +1,7 @@
+# Sonata Dashboard Bundle
+# Configuration: https://sonata-project.org/bundles/dashboard/master/doc/reference/installation.html
+sonata_dashboard:
+    default_container: sonata.dashboard.block.container
+    class:
+        dashboard: App\Application\Sonata\DashboardBundle\Entity\Dashboard
+        block:     App\Application\Sonata\DashboardBundle\Entity\Block

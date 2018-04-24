@@ -1,0 +1,19 @@
+imports:
+    - { resource: configSonata/sonata_admin.yml }
+    - { resource: configSonata/sonata_admin_search.yml }
+    - { resource: configSonata/sonata_block.yml }
+    - { resource: configSonata/sonata_cache.yml }
+    - { resource: configSonata/sonata_classification.yml }
+    - { resource: configSonata/sonata_core.yml }
+    - { resource: configSonata/sonata_dashboard.yml }
+    - { resource: configSonata/sonata_doctrine_orm_admin.yml }
+    - { resource: configSonata/sonata_formatter.yml }
+    - { resource: configSonata/sonata_intl.yml }
+    - { resource: configSonata/sonata_media.yml }
+    - { resource: configSonata/sonata_news.yml }
+    - { resource: configSonata/sonata_notification.yml }
+    - { resource: configSonata/sonata_page.yml }
+    - { resource: configSonata/sonata_seo.yml }
+    - { resource: configSonata/sonata_timeline.yml }
+    - { resource: configSonata/sonata_translation.yml }
+    - { resource: configSonata/sonata_user.yml }
