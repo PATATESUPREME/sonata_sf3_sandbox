@@ -30,17 +30,6 @@ php >= 7.1
             - `php bin/console doctrine:schema:create`
     - Create an admin user : `php bin/console fos:user:create admingr --super-admin`
 
-Guidelines Git
---------------
-
-### Commit messages
-
-For your commit messages, please follow the [Golden Rules 1 - Commit message](https://sites.google.com/emakina.fr/technopedia/rules/golden-rules/1-commit-message)
-  
-### Pull requests
-
-For your pull requests, please follow the [Golden Rules 4 - Pull request](https://sites.google.com/emakina.fr/technopedia/rules/golden-rules/4-pull-request)
-
 Documentation
 -------------
 
